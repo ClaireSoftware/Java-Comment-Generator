@@ -47,6 +47,6 @@ public class ComGenExtendedPane
 
 	}
 	while(decision=='y'||decision=='Y');
-	SignatureDialog.SignatureFlashy();
+	SignatureDialog.SignatureFlashy(); //Requires my Signature package, just comment this out if not wanted.
 	}
 }
