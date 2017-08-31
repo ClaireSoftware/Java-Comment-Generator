@@ -20,7 +20,7 @@ public class ComGenExtendedPane
 		String decisionString;
 		//char decision;
 		//The name is assumed to be constant, if you want to use this for someone other than me, you would have to change the name
-		final String MyName= "Claire Software";
+		final String MyName= "East Apollo";
 		/*String Date; */ //If the Date function does not work for you, uncomment all of the lines that have an * next to them
 		Toolkit toolkit = Toolkit.getDefaultToolkit();
 		Clipboard clipboard = toolkit.getSystemClipboard();
